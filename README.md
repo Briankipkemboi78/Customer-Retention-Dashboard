@@ -25,6 +25,6 @@ The dataset includes information on customers, their services, account details, 
 ## Screenshots
 ![Churn](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn1.png?raw=true)
 
-![Customer Risk Analysis](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn1.png?raw=true)
+![Customer Risk Analysis](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn2.png?raw=true)
 ## License
 <Brian Kipkemboi.
