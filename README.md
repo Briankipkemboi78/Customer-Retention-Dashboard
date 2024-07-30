@@ -23,7 +23,7 @@ This project is purely for improving my skills in data analytics, data visualiza
 The dataset includes information on customers, their services, account details, and demographic information.
 
 ## Screenshots
-![Churn](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn1.png?raw=true)
+![Churn](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn%202.png?raw=true)
 
 ![Customer Risk Analysis](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn%201.png?raw=truehttps://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn2.png?raw=true)
 ## License
