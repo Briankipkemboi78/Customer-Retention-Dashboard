@@ -2,6 +2,10 @@
 
 This Power BI dashboard provides insights into customer retention for a telecom company. It includes visualizations for churn rate, tenure analysis, monthly charges comparison, contract types, services used, and customer demographics.
 
+## Pupose of this Project
+This project is purely for improving my skills in data analytics, data visualization, and dashboard creation using Power BI. It is intended to demonstrate my ability to analyze and visualize customer data to derive actionable insights.
+ 
+
 ## Features
 - **Churn Rate:** Displays the percentage of customers who have churned.
 - **Tenure Analysis:** Shows the distribution of customer tenure.
@@ -19,7 +23,8 @@ This Power BI dashboard provides insights into customer retention for a telecom 
 The dataset includes information on customers, their services, account details, and demographic information.
 
 ## Screenshots
-![Dashboard Screenshot](screenshot.png)
+![Churn](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn1.png?raw=true)
 
+![Customer Risk Analysis](https://github.com/Briankipkemboi78/Customer-Retention-Dashboard/blob/main/churn1.png?raw=true)
 ## License
-This project is licensed under the MIT License.
+<Brian Kipkemboi.
